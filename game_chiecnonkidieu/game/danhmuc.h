@@ -1,0 +1,11 @@
+int chonTu(char*,char*,char *);
+int chonNgauNhien(int);
+int cauHoi(char*,int);
+int giaithichtubimat(char *,int );
+char dockitu();
+char thuongsanghoa(char);
+int win(int[],int);
+int kiemtrakitu(int[],char,char[]);
+int hamxuli();
+char doccumtu(int,char*);
+int kiemtracumtu(int ,char *,char[],int []);
